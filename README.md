@@ -1,5 +1,5 @@
 # Word Genrator
 
-A new Flutter project.
+Cross Platform App with Flutter sdk
 
-##https://flutter.io/.
+## https://flutter.io/.
