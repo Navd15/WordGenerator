@@ -1,4 +1,4 @@
-# Word Genrator
+# Word Generator
 
 Cross Platform App with Flutter sdk
 
